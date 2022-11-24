@@ -110,7 +110,7 @@ namespace Практическая3
         }
         static void FirstFunctionPlug() // Заглушка для первой функции
         {
-            FirstFunction(-4);
+            FirstFunction(-5);
         }
         static void SecondlyFunctionPlug() // Заглушка для второй функции
         {
