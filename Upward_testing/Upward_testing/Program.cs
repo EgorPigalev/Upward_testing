@@ -11,17 +11,21 @@ namespace Практическая3
             Console.WriteLine("Подсчитанный логарифм с помощью библиотеки Math: " + Math.Log(3) / Math.Log(5));
             Console.ReadKey();
             // Проверка синуса
+            Console.Clear();
             Console.WriteLine("Подсчитанный синус в программе: " + SinPlug());
             Console.WriteLine("Подсчитанный синус с помощью библиотеки Math: " + Math.Sin(-3));
             Console.ReadKey();
             // Проверка косинуса
+            Console.Clear();
             Console.WriteLine("Подсчитанный косинус в программе: " + CosPlug());
             Console.WriteLine("Подсчитанный косинус с помощью библиотеки Math: " + Math.Cos(-6));
             Console.ReadKey();
             // Проверка первой функции
+            Console.Clear();
             FirstFunctionPlug();
             Console.ReadKey();
             // Проверка второй функции
+            Console.Clear();
             SecondlyFunctionPlug();
             Console.ReadKey();
             //while (true)
